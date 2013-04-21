@@ -1,0 +1,13 @@
+{
+    "name": "cobrowse"
+  , "description": "Uses jquery, socketio to allow cobrowsing"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "x",
+      "socket.io": "x",
+      "jade": "x"
+  }
+  , "scripts" : {
+  }
+}
